@@ -2,7 +2,7 @@
 
 ### Crear proyecto y testearlo
 ```
-composer create-project --prefer-dist laravel/laravel blog
+composer create-project --prefer-dist laravel/laravel projectname
 php artisan serve //Testear la app
 ```
 ### Crear modelo, controlador y relacion
